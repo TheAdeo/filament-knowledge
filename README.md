@@ -1,6 +1,11 @@
 # Filament knowledge
 A list and guide for all kinds of 3D printing filaments
 
+<details>
+<summary>Jump to section</summary>
+List with links to sections
+</details>
+
 <!-------------------------------------------------------------------------------------------------->
 ## Thermoplastic Polymers
 ### PCL
@@ -217,5 +222,6 @@ A list and guide for all kinds of 3D printing filaments
 ### Stainless steel 316L
 
 ### Stainless steel 17-4
+
 
 #todo: esd + v
