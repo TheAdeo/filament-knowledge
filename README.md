@@ -131,7 +131,7 @@ List with links to sections
 ### PC-PBT
 >Polycarbonate - Polybutylene Terephthalate 
 
--cf-gf
+-cf-gf-bn
 
 ### PC-PTFE
 >Polycarbonate - Polytetrafluoroethylene 
@@ -173,7 +173,7 @@ List with links to sections
 ### Ultem 9085/PEI
 >Polyetherimide
 
--cf-gf
+-cf-gf-bn
 
 ### Ultem 1010/PEI
 >Polyetherimide
