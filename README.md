@@ -2,13 +2,32 @@
 A list and guide for all kinds of 3D printing filaments
 
 <details>
-<summary>Jump to section</summary>
+<summary>Quick links to sections</summary>
 List with links to sections
 </details>
 
----
 <!-------------------------------------------------------------------------------------------------->
+</br>
+
+---
+
+## General Layout
+This guide lists separately traditional polymers, fills found in polymeric filaments, support materials and sintering filaments.
+
+For each filament there is a description of its properties and for what it is used, then a printing subsections with a range of reccommended temperatures (*Hotend* / *Bed* / *Chamber*) and some general printing reccomendations.
+
+An additional section is at the bottom describing annealing in general, with additional specific informations under each polymer subsection that requires them.
+
+<!-------------------------------------------------------------------------------------------------->
+</br>
+
+---
+
 ## Thermoplastic Polymers
+
+These are the traditional plastic filaments used in 3D printing, spanning from the common ones used by hobbyists to engineering materials used in industrial settings, including also niche polymers rarely seen.
+Plastic filaments can be commonly found with a lot of different options, them being different blends of the original polymer or different non meltable fills added to give different properties to the final material.
+
 ### PCL
 >Polycaprolactone
 
@@ -33,7 +52,7 @@ List with links to sections
 -cf-gf-ht
 
 ### OBC
->Olefin Block Copolymers
+>Olefin block Copolymers
 
 ### TPU
 >Thermoplastic Polyurethane
@@ -47,7 +66,7 @@ List with links to sections
 >Thermoplastic Copolyester Elastomers 
 
 ### PEBA
->Polyether Block Amide 
+>Polyether block Amide 
 
 ### TPS/SEBS
 >Styrene - Ethylene - Butylene - Styrene
@@ -72,6 +91,9 @@ List with links to sections
 ### LCP
 >Liquid Crystal Polymers
 
+###SBC
+>Styrene Butadiene Copolymer
+
 ### ABS
 >Acrylonitrile Butadiene Styrene
 
@@ -92,7 +114,7 @@ List with links to sections
 >Low-density Polyethylene
 
 ### PMMA
->Poly(methyl methacrylate)
+>Poly(Methyl Methacrylate)
 
 ### PVA
 >Polyvinyl Alcohol
@@ -190,14 +212,19 @@ List with links to sections
 ### BVOH
 >Butenediol Vinyl Alcohol Copolymer
 
----
 <!-------------------------------------------------------------------------------------------------->
+</br>
+
+---
+
 ## Variants
 ### Silk
 
 ### Rainbow
 
 ### Dual Extrusion
+
+### Architectural Visualization
 
 ### Glow in the Dark
 
@@ -209,16 +236,19 @@ List with links to sections
 
 ### Fire Resistant - FR/V0
 
----
 <!-------------------------------------------------------------------------------------------------->
+</br>
+
+---
+
 ## Fills
 ### Wood
 
-### Marble
+### Stone
 
 ### Glitter
 
-### Metal Fill
+### Metal
 
 ### Carbon Fibers - CF
 
@@ -228,10 +258,13 @@ List with links to sections
 
 ### Hollow Glass Spheres
 
-### Ceramic Fill
+### Ceramic
+
+<!-------------------------------------------------------------------------------------------------->
+</br>
 
 ---
-<!-------------------------------------------------------------------------------------------------->
+
 ## Support Materials
 ### 3DXtech Aquatek X1
 
@@ -249,8 +282,11 @@ List with links to sections
 
 ### PPprint P-support 279
 
----
 <!-------------------------------------------------------------------------------------------------->
+</br>
+
+---
+
 ## Sintering (ceramics and metals)
 ### Silicone carbide
 
@@ -265,3 +301,11 @@ List with links to sections
 ### Stainless steel 316L
 
 ### Stainless steel 17-4
+
+<!-------------------------------------------------------------------------------------------------->
+</br>
+
+---
+
+## Annealing
+Description
