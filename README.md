@@ -6,6 +6,7 @@ A list and guide for all kinds of 3D printing filaments
 List with links to sections
 </details>
 
+---
 <!-------------------------------------------------------------------------------------------------->
 ## Thermoplastic Polymers
 ### PCL
@@ -189,6 +190,7 @@ List with links to sections
 ### BVOH
 >Butenediol Vinyl Alcohol Copolymer
 
+---
 <!-------------------------------------------------------------------------------------------------->
 ## Variants
 ### Silk
@@ -207,6 +209,7 @@ List with links to sections
 
 ### Fire Resistant - FR/V0
 
+---
 <!-------------------------------------------------------------------------------------------------->
 ## Fills
 ### Wood
@@ -227,6 +230,7 @@ List with links to sections
 
 ### Ceramic Fill
 
+---
 <!-------------------------------------------------------------------------------------------------->
 ## Support Materials
 ### 3DXtech Aquatek X1
@@ -245,6 +249,7 @@ List with links to sections
 
 ### PPprint P-support 279
 
+---
 <!-------------------------------------------------------------------------------------------------->
 ## Sintering (ceramics and metals)
 ### Silicone carbide
@@ -260,6 +265,3 @@ List with links to sections
 ### Stainless steel 316L
 
 ### Stainless steel 17-4
-
-
-#todo: esd + fr
