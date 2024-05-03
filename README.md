@@ -190,7 +190,45 @@ List with links to sections
 >Butenediol Vinyl Alcohol Copolymer
 
 <!-------------------------------------------------------------------------------------------------->
-## Support
+## Variants
+### Silk
+
+### Rainbow
+
+### Dual Extrusion
+
+### Glow in the Dark
+
+### Color Changing
+
+### Foaming/Lightweight - LW
+
+### ESD Safe - ESD
+
+### Fire Resistant - FR/V0
+
+<!-------------------------------------------------------------------------------------------------->
+## Fills
+### Wood
+
+### Marble
+
+### Glitter
+
+### Metal Fill
+
+### Carbon Fibers - CF
+
+### Glass Fibers - GF
+
+### Aramid/Kevlar Fibers
+
+### Hollow Glass Spheres
+
+### Ceramic Fill
+
+<!-------------------------------------------------------------------------------------------------->
+## Support Materials
 ### 3DXtech Aquatek X1
 
 ### 3DXtech LTS
@@ -217,11 +255,11 @@ List with links to sections
 
 ### Alumina
 
-### Boron Nitride
+### Boron Carbide
 
 ### Stainless steel 316L
 
 ### Stainless steel 17-4
 
 
-#todo: esd + v
+#todo: esd + fr
