@@ -126,7 +126,7 @@ Plastic filaments can be commonly found with a lot of different options, them be
 >Polyvinyl Chloride
 
 ### PVDF
->Polyvinyl Chloride
+>Polyvinyl Fluoride
 
 ### PPS
 >Polyphenylene Sulfide
