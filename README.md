@@ -282,6 +282,10 @@ Plastic filaments can be commonly found with a lot of different options, them be
 
 ### PPprint P-support 279
 
+### Iglidur stuff
+
+TBD how to add igus filaments
+
 <!-------------------------------------------------------------------------------------------------->
 </br>
 
