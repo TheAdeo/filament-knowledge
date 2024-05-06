@@ -51,11 +51,15 @@ Plastic filaments can be commonly found with a lot of different options, them be
 
 -cf-gf-ht
 
+### PETG-PTFE
+>TODO
+
 ### OBC
 >Olefin block Copolymers
 
 ### TPU
 >Thermoplastic Polyurethane
+
 -cf-gf-silk-lw
 
 ### TPE
@@ -192,6 +196,9 @@ Plastic filaments can be commonly found with a lot of different options, them be
 >Polyetheretherketone
 
 -cf-gf
+
+### PEEK-PTFE
+>TODO
 
 ### Ultem 9085/PEI
 >Polyetherimide
