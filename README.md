@@ -31,6 +31,8 @@ Other sections at the bottom describe pre or post processing actions in general,
 These are the traditional plastic filaments used in 3D printing, spanning from the common ones used by hobbyists to engineering materials used in industrial settings, including also niche polymers rarely seen.  
 Plastic filaments can be commonly found with a lot of different options, them being different blends of the original polymer or different non meltable fills added to give different properties to the final material.
 
+</br>
+
 <!-------------------------------------------->
 ### • PCL
 >Polycaprolactone
@@ -42,6 +44,8 @@ It is commonly used on 3D pens, but it's also used in the research world as it i
 > Even though PCL is biocompatible, your printer isn't, so the parts you will print won't be biocompatible, because of the contaminants absorbed during the printing process due to the non sterilized printer.
 #### - Printing: (130° / 40° / - )
 Requires a firmware modification/setting change to allow extrusion at low temperatures. Very bad at bridging.
+
+</br>
 
 <!-------------------------------------------->
 ### • PLA
@@ -77,6 +81,9 @@ It's one of the easiest material to print. The only thing that can limit you is 
 - Carbon Fibers - CF
 - Glass Fibers - GF
 
+</br>
+
+<!-------------------------------------------->
 ### PETG
 >Polyethylene Terephthalate - Glycole modified
 
@@ -90,6 +97,8 @@ todo printing
 - todo vars  
   &nbsp;&nbsp;&nbsp;todo vars
 -cf-glow-metal
+
+</br>
 
 <!-------------------------------------------->
 ### PCTG
@@ -106,6 +115,8 @@ todo printing
   &nbsp;&nbsp;&nbsp;todo vars
 -cf-gf
 
+</br>
+
 <!-------------------------------------------->
 ### PET
 >Polyethylene Terephthalate
@@ -121,6 +132,8 @@ todo printing
   &nbsp;&nbsp;&nbsp;todo vars
 -cf-gf-ht
 
+</br>
+
 <!-------------------------------------------->
 ### PETG-PTFE
 >Polyethylene Terephthalate - Glycole modified - Polytetrafluoroethylene 
@@ -131,6 +144,8 @@ todo char
 #### - Printing: (-° / -° / - )
 todo printing
 
+</br>
+
 <!-------------------------------------------->
 ### OBC
 >Olefin block Copolymers
@@ -140,6 +155,8 @@ todo char
 
 #### - Printing: (-° / -° / - )
 todo printing
+
+</br>
 
 <!-------------------------------------------->
 ### TPU
@@ -156,6 +173,8 @@ todo printing
   &nbsp;&nbsp;&nbsp;todo vars
 -cf-gf-silk-lw
 
+</br>
+
 <!-------------------------------------------->
 ### TPE
 >Thermoplastic Elastomers
@@ -171,6 +190,8 @@ todo printing
   &nbsp;&nbsp;&nbsp;todo vars
 -pctpe
 
+</br>
+
 <!-------------------------------------------->
 ### TPC
 >Thermoplastic Copolyester Elastomers 
@@ -180,6 +201,8 @@ todo char
 
 #### - Printing: (-° / -° / - )
 todo printing
+
+</br>
 
 <!-------------------------------------------->
 ### PEBA
@@ -191,6 +214,8 @@ todo char
 #### - Printing: (-° / -° / - )
 todo printing
 
+</br>
+
 <!-------------------------------------------->
 ### TPS/SEBS
 >Styrene - Ethylene - Butylene - Styrene
@@ -201,6 +226,8 @@ todo char
 #### - Printing: (-° / -° / - )
 todo printing
 
+</br>
+
 <!-------------------------------------------->
 ### EVA
 >Ethylene - Vinyl Acetate
@@ -210,6 +237,8 @@ todo char
 
 #### - Printing: (-° / -° / - )
 todo printing
+
+</br>
 
 <!-------------------------------------------->
 ### PP
@@ -226,6 +255,8 @@ todo printing
   &nbsp;&nbsp;&nbsp;todo vars
 -cf-gf-hgs-lw
 
+</br>
+
 <!-------------------------------------------->
 ### PP-PE
 >Polypropylene - Polyethylene
@@ -235,6 +266,8 @@ todo char
 
 #### - Printing: (-° / -° / - )
 todo printing
+
+</br>
 
 <!-------------------------------------------->
 ### PHA
@@ -246,6 +279,8 @@ todo char
 #### - Printing: (-° / -° / - )
 todo printing
 
+</br>
+
 <!-------------------------------------------->
 ### PHB
 >Polyhydroxybutyrate
@@ -255,6 +290,8 @@ todo char
 
 #### - Printing: (-° / -° / - )
 todo printing
+
+</br>
 
 <!-------------------------------------------->
 ### LCP
@@ -266,6 +303,8 @@ todo char
 #### - Printing: (-° / -° / - )
 todo printing
 
+</br>
+
 <!-------------------------------------------->
 ### SBC
 >Styrene Butadiene Copolymer
@@ -275,6 +314,8 @@ todo char
 
 #### - Printing: (-° / -° / - )
 todo printing
+
+</br>
 
 <!-------------------------------------------->
 ### ABS
@@ -291,6 +332,8 @@ todo printing
   &nbsp;&nbsp;&nbsp;todo vars
 -cf-gf-kf-blend-glow
 
+</br>
+
 <!-------------------------------------------->
 ### ASA
 >Acrylonitrile Styrene Acrylate
@@ -303,6 +346,8 @@ todo char
 #### - Printing: (-° / -° / - )
 todo printing
 
+</br>
+
 <!-------------------------------------------->
 ### HIPS
 >High Impact Polystyrene
@@ -312,6 +357,8 @@ todo char
 
 #### - Printing: (-° / -° / - )
 todo printing
+
+</br>
 
 <!-------------------------------------------->
 ### HDPE
@@ -323,6 +370,8 @@ todo char
 #### - Printing: (-° / -° / - )
 todo printing
 
+</br>
+
 <!-------------------------------------------->
 ### LDPE
 >Low-density Polyethylene
@@ -332,6 +381,8 @@ todo char
 
 #### - Printing: (-° / -° / - )
 todo printing
+
+</br>
 
 <!-------------------------------------------->
 ### PMMA
@@ -343,6 +394,8 @@ todo char
 #### - Printing: (-° / -° / - )
 todo printing
 
+</br>
+
 <!-------------------------------------------->
 ### PVA
 >Polyvinyl Alcohol
@@ -352,6 +405,8 @@ todo char
 
 #### - Printing: (-° / -° / - )
 todo printing
+
+</br>
 
 <!-------------------------------------------->
 ### PVB
@@ -363,6 +418,8 @@ todo char
 #### - Printing: (-° / -° / - )
 todo printing
 
+</br>
+
 <!-------------------------------------------->
 ### PVC
 >Polyvinyl Chloride
@@ -373,6 +430,8 @@ todo char
 #### - Printing: (-° / -° / - )
 todo printing
 
+</br>
+
 <!-------------------------------------------->
 ### PVDF
 >Polyvinyl Fluoride
@@ -382,6 +441,8 @@ todo char
 
 #### - Printing: (-° / -° / - )
 todo printing
+
+</br>
 
 <!-------------------------------------------->
 ### PPS
@@ -398,6 +459,8 @@ todo printing
   &nbsp;&nbsp;&nbsp;todo vars
 -cf-gf
 
+</br>
+
 <!-------------------------------------------->
 ### PA
 >Polyamides
@@ -412,6 +475,8 @@ todo printing
 - todo vars  
   &nbsp;&nbsp;&nbsp;todo vars
 -6-66-11-12-cf-gf
+
+</br>
 
 <!-------------------------------------------->
 ### PPA
@@ -428,6 +493,8 @@ todo printing
   &nbsp;&nbsp;&nbsp;todo vars
 -cf-gf
 
+</br>
+
 <!-------------------------------------------->
 ### PC-ABS
 >Polycarbonate - Acrylonitrile Butadiene Styrene
@@ -437,6 +504,8 @@ todo char
 
 #### - Printing: (-° / -° / - )
 todo printing
+
+</br>
 
 <!-------------------------------------------->
 ### PC
@@ -453,6 +522,8 @@ todo printing
   &nbsp;&nbsp;&nbsp;todo vars
 -cf-gf-blend
 
+</br>
+
 <!-------------------------------------------->
 ### PC-PBT
 >Polycarbonate - Polybutylene Terephthalate 
@@ -468,6 +539,8 @@ todo printing
   &nbsp;&nbsp;&nbsp;todo vars
 -cf-gf-bn
 
+</br>
+
 <!-------------------------------------------->
 ### PC-PTFE
 >Polycarbonate - Polytetrafluoroethylene
@@ -477,6 +550,8 @@ todo char
 
 #### - Printing: (-° / -° / - )
 todo printing
+
+</br>
 
 <!-------------------------------------------->
 ### PBT
@@ -488,6 +563,8 @@ todo char
 #### - Printing: (-° / -° / - )
 todo printing
 
+</br>
+
 <!-------------------------------------------->
 ### PPE
 >Polyphenylene Ether
@@ -497,6 +574,8 @@ todo char
 
 #### - Printing: (-° / -° / - )
 todo printing
+
+</br>
 
 <!-------------------------------------------->
 ### PPE-PS
@@ -508,6 +587,8 @@ todo char
 #### - Printing: (-° / -° / - )
 todo printing
 
+</br>
+
 <!-------------------------------------------->
 ### PPE-PA
 >Polyphenylene Ether - Polyamide
@@ -517,6 +598,8 @@ todo char
 
 #### - Printing: (-° / -° / - )
 todo printing
+
+</br>
 
 <!-------------------------------------------->
 ### PSU
@@ -528,6 +611,8 @@ todo char
 #### - Printing: (-° / -° / - )
 todo printing
 
+</br>
+
 <!-------------------------------------------->
 ### PPSU/PPSF
 >Polyphenylsulfone
@@ -537,6 +622,8 @@ todo char
 
 #### - Printing: (-° / -° / - )
 todo printing
+
+</br>
 
 <!-------------------------------------------->
 ### PES/PESU
@@ -548,6 +635,8 @@ todo char
 #### - Printing: (-° / -° / - )
 todo printing
 
+</br>
+
 <!-------------------------------------------->
 ### POM
 >Polyoxymethylene
@@ -557,6 +646,8 @@ todo char
 
 #### - Printing: (-° / -° / - )
 todo printing
+
+</br>
 
 <!-------------------------------------------->
 ### PEKK
@@ -573,6 +664,8 @@ todo printing
   &nbsp;&nbsp;&nbsp;todo vars
 -a-c-cf-ceramic
 
+</br>
+
 <!-------------------------------------------->
 ### PEEK
 >Polyetheretherketone
@@ -588,6 +681,8 @@ todo printing
   &nbsp;&nbsp;&nbsp;todo vars
 -cf-gf
 
+</br>
+
 <!-------------------------------------------->
 ### PEEK-PTFE
 >Polyetheretherketone - Polytetrafluoroethylene
@@ -597,6 +692,8 @@ todo char
 
 #### - Printing: (-° / -° / - )
 todo printing
+
+</br>
 
 <!-------------------------------------------->
 ### Ultem 9085/PEI
@@ -613,6 +710,8 @@ todo printing
   &nbsp;&nbsp;&nbsp;todo vars
 -cf-gf-bn
 
+</br>
+
 <!-------------------------------------------->
 ### Ultem 1010/PEI
 >Polyetherimide
@@ -628,6 +727,8 @@ todo printing
   &nbsp;&nbsp;&nbsp;todo vars
 -cf-gf
 
+</br>
+
 <!-------------------------------------------->
 ### TPI
 >Thermoplastic Polyimide
@@ -637,6 +738,8 @@ todo char
 
 #### - Printing: (-° / -° / - )
 todo printing
+
+</br>
 
 <!-------------------------------------------->
 ### PAI
@@ -648,6 +751,8 @@ todo char
 #### - Printing: (-° / -° / - )
 todo printing
 
+</br>
+
 <!-------------------------------------------->
 ### BVOH
 >Butenediol Vinyl Alcohol Copolymer
@@ -658,10 +763,10 @@ todo char
 #### - Printing: (-° / -° / - )
 todo printing
 
-<!-------------------------------------------->
-<!-------------------------------------------------------------------------------------------------->
 </br>
 
+<!-------------------------------------------->
+<!-------------------------------------------------------------------------------------------------->
 ---
 
 ## Variants
