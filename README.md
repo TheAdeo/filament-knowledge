@@ -445,6 +445,18 @@ todo printing
 </br>
 
 <!-------------------------------------------->
+### FEP
+>Please no
+
+#### - Characteristics:
+todo char
+
+#### - Printing: (-° / -° / - )
+todo printing
+
+</br>
+
+<!-------------------------------------------->
 ### PPS
 >Polyphenylene Sulfide
 
