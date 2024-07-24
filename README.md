@@ -127,7 +127,7 @@ It prints a bit hotter than PETG, but it behaves similarly. If achieving maximum
 #### - Characteristics:
 One of the most used plastic in the entire world, plastic bottles are made of PET. Not to be confused with PETG, it has a semi-crystalline structure, giving it increased mechanical and thermal properties compared to other polymers of the family. It's stiff, and can be annealed to increase this property even more, while also making it capable of resisting upwards of 100°.
 
-#### - Printing: (290° / 80° / 45° )
+#### - Printing: (290° / 80° / 45°)
 PET prints fairly hot, and can even be crystallized while printing in the right conditions. A heated chamber helps, but at 55° and over it starts to strip in the extruder.
 Annealing is required to achieve all the properties of this polymer.
 
