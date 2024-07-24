@@ -17,7 +17,7 @@ List with links to sections
 ---
 
 ## General Layout
-This guide lists separately traditional polymers, fills found in polymeric filaments, support materials and sintering filaments.  
+This guide lists separately traditional polymers, fills found in polymeric filaments, support materials, and sintering filaments.  
 For each filament there is a description of its properties and for what it is used, then a printing subsections with a range of reccommended temperatures (*Hotend* / *Bed* / *Chamber*) and some general printing reccomendations.  
 Other sections at the bottom describe pre or post processing actions in general, with additional specific informations under each polymer subsection that requires them.
 
@@ -88,15 +88,18 @@ It's one of the easiest material to print. The only thing that can limit you is 
 >Polyethylene Terephthalate - Glycole modified
 
 #### - Characteristics:
-todo char
+PETG is a very common amorphous filament, made by substituting the glycole with CHDM during the production of PET, and it's useful for its flexibility and increased temperature resistance compared to PLA. It's very good for living hinges and for parts that will be left outside or in the sun.
 
-#### - Printing: (-° / -° / - )
-todo printing
+#### - Printing: (240° / 60° / - )
+It doesn't flow a lot, so it has to be printed a bit slower than PLA, and requires to be dried as it is very hygroscopic.
 
 #### - Variants:
-- todo vars  
-  &nbsp;&nbsp;&nbsp;todo vars
--cf-glow-metal
+- Glow in the Dark
+- Color Changing
+- Glitter
+- Metal
+- Carbon Fibers - CF
+- Glass Fibers - GF
 
 </br>
 
@@ -105,15 +108,15 @@ todo printing
 >Polycyclohexylenedimethylene Terephthalate
 
 #### - Characteristics:
-todo char
+A new amorphous polymer that is slowly emerging and putting aside PETG. It is basically the same as its cousin but it has slightly better mechanical properties, but can creep if continuously loaded at higher temps.
+Transparent PCTG is one of the clearest filament on the market, perfect for printing translucent pieces.
 
-#### - Printing: (-° / -° / - )
-todo printing
+#### - Printing: (260° / 70° / 45°)
+It prints a bit hotter than PETG, but it behaves similarly. If achieving maximum transparency is the goal it should be printed extremely slowly (20 mm/s), very hot (even 280°) and without fan.
 
 #### - Variants:
-- todo vars  
-  &nbsp;&nbsp;&nbsp;todo vars
--cf-gf
+- Carbon Fibers - CF
+- Glass Fibers - GF
 
 </br>
 
@@ -122,15 +125,15 @@ todo printing
 >Polyethylene Terephthalate
 
 #### - Characteristics:
-todo char
+One of the most used plastic in the entire world, plastic bottles are made of PET. Not to be confused with PETG, it has a semi-crystalline structure, giving it increased mechanical and thermal properties compared to other polymers of the family. It's stiff, and can be annealed to increase this property even more, while also making it capable of resisting upwards of 100°.
 
-#### - Printing: (-° / -° / - )
-todo printing
+#### - Printing: (290° / 80° / 45° )
+PET prints fairly hot, and can even be crystallized while printing in the right conditions. A heated chamber helps, but at 55° and over it starts to strip in the extruder.
+Annealing is required to achieve all the properties of this polymer.
 
 #### - Variants:
-- todo vars  
-  &nbsp;&nbsp;&nbsp;todo vars
--cf-gf-ht
+- Carbon Fibers - CF
+- Glass Fibers - GF
 
 </br>
 
@@ -139,10 +142,12 @@ todo printing
 >Polyethylene Terephthalate - Glycole modified - Polytetrafluoroethylene 
 
 #### - Characteristics:
-todo char
+PTFE can be added to PETG to decrease its friction, making it ideal to use for gears and sliding parts under 70°.
 
-#### - Printing: (-° / -° / - )
-todo printing
+#### - Printing: (240° / 60° / - )
+Printing it slower than regular PETG can prevent warping.
+> [!CAUTION]  
+> PTFE starts to degrade and offgass at temperatures higher than 250°, but it has been shown to be harmful to birds already at 210°. You should only print filaments that contain PTFE in well ventilated environments and not breathe in any fumes.
 
 </br>
 
@@ -151,10 +156,10 @@ todo printing
 >Olefin block Copolymers
 
 #### - Characteristics:
-todo char
+A copolymer of the polyethylene family, OBC is a semi-crystalline polymer that has low density, good chemical resistance, toughness and some flexibility. It's non-wetting and not hygroscopic.
 
-#### - Printing: (-° / -° / - )
-todo printing
+#### - Printing: (200° / 70° / - )
+Requires much lower temperatures than other polyethylene copolymers. Might not require drying as it repels water.
 
 </br>
 
@@ -662,6 +667,18 @@ todo printing
 </br>
 
 <!-------------------------------------------->
+### FEP
+>Fluorinated Ethylene Propylene
+
+#### - Characteristics:
+todo char
+
+#### - Printing: (-° / -° / - )
+todo printing
+
+</br>
+
+<!-------------------------------------------->
 ### PEKK
 >Polyetherketoneketone
 
@@ -698,6 +715,18 @@ todo printing
 <!-------------------------------------------->
 ### PEEK-PTFE
 >Polyetheretherketone - Polytetrafluoroethylene
+
+#### - Characteristics:
+todo char
+
+#### - Printing: (-° / -° / - )
+todo printing
+
+</br>
+
+<!-------------------------------------------->
+### Polyketone
+>Polyeketone
 
 #### - Characteristics:
 todo char
@@ -829,7 +858,7 @@ todo printing
 
 ---
 
-## Support Materials
+## Support Materials and Specialty Filaments
 ### 3DXtech Aquatek X1
 
 ### 3DXtech LTS
@@ -848,7 +877,7 @@ todo printing
 
 ### Iglidur stuff
 
-TBD how to add igus filaments
+### Multi3D Electrifi
 
 <!-------------------------------------------------------------------------------------------------->
 </br>
@@ -876,8 +905,12 @@ TBD how to add igus filaments
 ---
 
 ## Drying
-Description
+Wet filament causes oozing and stringing while printing, producing also rough surfaces and messing the extrusion multiplier calibration, to combat this it's best to always print dry filament.
 
+During the manufacturing process filament is cooled in water baths after being extruded, and never dried again. Even if the spool came in a "sealed" bag with some dessicant it's probably wet.
+Moisture can and does pass through plastic bags, that's why industrial filaments come in bags with a metallic liner.
+A lot of commonly printed filaments are hygroscopic (like PETG, PA, PC) and any fiber fill increases water absorption drastically, so it's highly recommended to dry every spool in a filament dryer / airfryer / convection oven at a temperature slightly below (5-10°) the glass transition temperature (Tg) of the filament for some hours.
+Vacuum drying doesn't work without heat, as the water molecules attach themselves to the polymer chains, requiring energy to separate.
 <!-------------------------------------------------------------------------------------------------->
 </br>
 
