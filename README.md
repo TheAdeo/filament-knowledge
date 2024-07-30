@@ -182,7 +182,7 @@ Requires much lower temperatures than other polyethylene copolymers. Might not r
 TPE is the generic name associated with any thermoplastic that behaves like elastic rubber (more specifically, like elastomers). It's a broad term that can be used to describe very different polymers, so it's only used when there isn't a more specific name. Properties will vary, the only common denominator for TPE is that they are flexible and tough.
 The hardness is measured with the Shore A or Shore D scale, where higher numbers mean harder. Filaments can be found with hardness spanning from 60A (tyre rubber) to 105A - 60D, with 95A being the most common.
 
-#### - Printing: (-° / -° / - )
+#### - Printing: ( -° / -° / - )
 They are tricky to print as the flexibility can easily cause jams in the extruder gears if trying to go too fast. A direct drive extruder is extremely recommended, and due to the low flowability the general rule is to print them as slow as possible. The softer the material the harder it is to print.
 
 </br>
