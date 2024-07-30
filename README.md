@@ -92,6 +92,8 @@ PETG is a very common amorphous filament, made by substituting the glycole with 
 
 #### - Printing: (240° / 60° / - )
 It doesn't flow a lot, so it has to be printed a bit slower than PLA, and requires to be dried as it is very hygroscopic.
+> [!WARNING]
+> PETG has very high adhesion to smooth PEI and glass beds and can damage them, so a release agent (glue or hairspray) is reccommended, textured PEI is also a good choice.
 
 #### - Variants:
 - Glow in the Dark
@@ -164,36 +166,37 @@ Requires much lower temperatures than other polyethylene copolymers. Might not r
 </br>
 
 <!-------------------------------------------->
-### TPU
->Thermoplastic Polyurethane
-
-#### - Characteristics:
-todo char
-
-#### - Printing: (-° / -° / - )
-todo printing
-
-#### - Variants:
-- todo vars  
-  &nbsp;&nbsp;&nbsp;todo vars
--cf-gf-silk-lw
-
-</br>
-
-<!-------------------------------------------->
 ### TPE
 >Thermoplastic Elastomers
 
 #### - Characteristics:
-todo char
+TPE is the generic name associated with any thermoplastic that behaves like elastic rubber (more specifically, like elastomers). It's a broad term that can be used to describe very different polymers, so it's only used when there isn't a more specific name. Properties will vary, the only common denominator for TPE is that they are flexible and tough.
+The hardness is measured with the Shore A or Shore D scale, where higher numbers mean harder. Filaments can be found with hardness spanning from 60A (tyre rubber) to 105A - 60D, with 95A being the most common.
 
 #### - Printing: (-° / -° / - )
-todo printing
+They are tricky to print as the flexibility can easily cause jams in the extruder gears if trying to go too fast. A direct drive extruder is extremely recommended, and due to the low flowability the general rule is to print them as slow as possible. The softer the material the harder it is to print.
+
+</br>
+
+<!-------------------------------------------->
+### TPU
+>Thermoplastic Polyurethane
+
+#### - Characteristics:
+The most common TPE, it has an extreme durability. You can hammer it or try to cut it with a blade, but TPU will resist that easily. It is highly recommended as a material for tough stuff around the house.
+Another advantage is that it's more temperature resistant than other common filaments such as PLA and PETG.
+
+#### - Printing: (240° / 60° / - )
+General TPE suggestions still apply.
+> [!WARNING]
+> TPU has very high adhesion to smooth PEI and glass beds and can damage them, so a release agent (glue or hairspray) is recommended, textured PEI is also a good choice.
 
 #### - Variants:
-- todo vars  
-  &nbsp;&nbsp;&nbsp;todo vars
--pctpe
+- Silk
+- Foaming/Lightweight - LW
+  &nbsp;&nbsp;&nbsp;Foaming TPU is special because the foaming not only change the density, but also change the hardness of the material: The more the material is foamed, the softer it is
+- Carbon Fibers - CF
+- Glass Fibers - GF
 
 </br>
 
@@ -202,10 +205,9 @@ todo printing
 >Thermoplastic Copolyester Elastomers 
 
 #### - Characteristics:
-todo char
+Another TPE, TPC has fairly chemical resistance, being nearly immune to oils and greases, and resistant to some acids. It also has good UV and temperature resistance (in some cases over 130°).
 
-#### - Printing: (-° / -° / - )
-todo printing
+#### - Printing: (240° / 80° / - )
 
 </br>
 
@@ -214,22 +216,23 @@ todo printing
 >Polyether block Amide 
 
 #### - Characteristics:
-todo char
+PEBA is one of the highest performance TPE. It has low density, superior flexibility, impact resistance and fatigue resistance, and keeps these properties even at -40°, but it's sensible to UV degradation.
+The main selling point of PEBA is the high energy return: a PEBA ball will bounce much higher than a ball made from some other TPE.
 
-#### - Printing: (-° / -° / - )
-todo printing
+#### - Printing: (240° / 80° / - )
+It is recommended to use brim around the printed object. The best adhesion is achieved on a glass surface with glue, but PEI can also be an option.
 
 </br>
 
 <!-------------------------------------------->
-### TPS/SEBS
+### SEBS
 >Styrene - Ethylene - Butylene - Styrene
 
 #### - Characteristics:
-todo char
+SEBS shines for its resistance to any ambient condition. It has great chemical resistance, UV resistance, low water absorption coupled to being sligtly water repellant.
 
-#### - Printing: (-° / -° / - )
-todo printing
+#### - Printing: (260° / 60° / - )
+It is recommended to use brim around the printed object. The best adhesion is achieved on a glass surface with glue, but PEI can also be an option.
 
 </br>
 
@@ -238,10 +241,10 @@ todo printing
 >Ethylene - Vinyl Acetate
 
 #### - Characteristics:
-todo char
+Bio based alternative to the other flexible filaments, EVA has good chemical resistance and low water absorption.
 
-#### - Printing: (-° / -° / - )
-todo printing
+#### - Printing: (240° / 40° / - )
+PPGF adhesive is recommended instead of the typical PVA/PVB glue
 
 </br>
 
