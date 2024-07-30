@@ -6,9 +6,18 @@
 # Filament knowledge
 A list and guide for all kinds of 3D printing filaments
 
-<details>
-<summary>Quick links to sections</summary>
-List with links to sections
+<details open>
+<summary><h4>Quick links to sections</h4></summary>
+  
+1. [General Layout](https://github.com/TheAdeo/filament-knowledge/edit/main/README.md#1-general-layout)
+2. [Thermoplastic Polymers](https://github.com/TheAdeo/filament-knowledge#2-thermoplastic-polymers)
+3. [Variants](https://github.com/TheAdeo/filament-knowledge/edit/main/README.md#3-variants)
+4. [Fills](https://github.com/TheAdeo/filament-knowledge/edit/main/README.md#4-fills)
+5. [Support Materials and Specialty Filaments](https://github.com/TheAdeo/filament-knowledge/edit/main/README.md#5-support-materials-and-specialty-filaments)
+6. [Sintering Ceramics and Metals](https://github.com/TheAdeo/filament-knowledge/edit/main/README.md#6-sintering-ceramics-and-metals)
+7. [Drying](https://github.com/TheAdeo/filament-knowledge/edit/main/README.md#7-drying)
+8. [Annealing](https://github.com/TheAdeo/filament-knowledge/edit/main/README.md#8-annealing)
+
 </details>
 
 <!-------------------------------------------------------------------------------------------------->
@@ -16,7 +25,7 @@ List with links to sections
 
 ---
 
-## General Layout
+## 1. General Layout
 This guide lists separately traditional polymers, fills found in polymeric filaments, support materials, and sintering filaments.  
 For each filament there is a description of its properties and for what it is used, then a printing subsections with a range of reccommended temperatures (*Hotend* / *Bed* / *Chamber*) and some general printing reccomendations.  
 Other sections at the bottom describe pre or post processing actions in general, with additional specific informations under each polymer subsection that requires them.
@@ -26,7 +35,7 @@ Other sections at the bottom describe pre or post processing actions in general,
 
 ---
 
-## Thermoplastic Polymers
+## 2. Thermoplastic Polymers
 
 These are the traditional plastic filaments used in 3D printing, spanning from the common ones used by hobbyists to engineering materials used in industrial settings, including also niche polymers rarely seen.  
 Plastic filaments can be commonly found with a lot of different options, them being different blends of the original polymer or different non meltable fills added to give different properties to the final material.
@@ -813,7 +822,7 @@ todo printing
 <!-------------------------------------------------------------------------------------------------->
 ---
 
-## Variants
+## 3. Variants
 ### Silk
 
 ### Rainbow
@@ -837,7 +846,7 @@ todo printing
 
 ---
 
-## Fills
+## 4. Fills
 ### Wood
 
 ### Stone
@@ -861,7 +870,7 @@ todo printing
 
 ---
 
-## Support Materials and Specialty Filaments
+## 5. Support Materials and Specialty Filaments
 ### 3DXtech Aquatek X1
 
 ### 3DXtech LTS
@@ -887,7 +896,7 @@ todo printing
 
 ---
 
-## Sintering (ceramics and metals)
+## 6. Sintering (ceramics and metals)
 ### Silicone carbide
 
 ### Silicone nitride
@@ -907,7 +916,7 @@ todo printing
 
 ---
 
-## Drying
+## 7. Drying
 Wet filament causes oozing and stringing while printing, producing also rough surfaces and messing the extrusion multiplier calibration, to combat this it's best to always print dry filament.
 
 During the manufacturing process filament is cooled in water baths after being extruded, and never dried again. Even if the spool came in a "sealed" bag with some dessicant it's probably wet.
@@ -919,5 +928,5 @@ Vacuum drying doesn't work without heat, as the water molecules attach themselve
 
 ---
 
-## Annealing
+## 8. Annealing
 Description
