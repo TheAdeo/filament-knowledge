@@ -202,8 +202,8 @@ General TPE suggestions still apply.
 
 #### - Variants:
 - Silk
-- Foaming/Lightweight - LW
-  &nbsp;&nbsp;&nbsp;Foaming TPU is special because the foaming not only change the density, but also change the hardness of the material: The more the material is foamed, the softer it is
+- Foaming/Lightweight - LW  
+  &nbsp;&nbsp;&nbsp;Foaming TPU is special because the foaming not only change the density, but also change the hardness of the material: The more the material is foamed, the softer it is.
 - Carbon Fibers - CF
 - Glass Fibers - GF
 
@@ -253,7 +253,7 @@ It is recommended to use brim around the printed object. The best adhesion is ac
 Bio based alternative to the other flexible filaments, EVA has good chemical resistance and low water absorption.
 
 #### - Printing: (240° / 40° / - )
-PPGF adhesive is recommended instead of the typical PVA/PVB glue
+PP-GF adhesive is recommended instead of the typical PVA/PVB glue
 
 </br>
 
@@ -262,27 +262,18 @@ PPGF adhesive is recommended instead of the typical PVA/PVB glue
 >Polypropylene
 
 #### - Characteristics:
-todo char
+Polypropylene is an amorphous thermoplastic that excels in toughness and chemical resistance, its high temperature resistance makes it sterilisable in an autoclave. It's the perfect material for mechanically demanding applications, its lower than average rigidity can be easily improved by fiber fills.
+It has a very low density, meaning that a 1 kg spool will contain more material than a similar PLA spool.
+A very good choice for everyday household objects, its only downsides are price and printability.
 
-#### - Printing: (-° / -° / - )
-todo printing
+#### - Printing: (250° / 60° / - )
+It is atypically hard to print for a plastic that doesn't require an heated chamber. It doesn't flow well, requiring low speeds to prevent tears in the print, and its chemical resistance makes it harder to print. Polypropylene only likes to stick to itself: PP packing tape is the recommended bed surface, for other beds PP specific glues are a must because normal PVA/PVB glue doesn't stick.
 
 #### - Variants:
-- todo vars  
-  &nbsp;&nbsp;&nbsp;todo vars
--cf-gf-hgs-lw
-
-</br>
-
-<!-------------------------------------------->
-### PP-PE
->Polypropylene - Polyethylene
-
-#### - Characteristics:
-todo char
-
-#### - Printing: (-° / -° / - )
-todo printing
+- Carbon Fibers - CF
+- Glass Fibers - GF  
+  &nbsp;&nbsp;&nbsp;Glass Fibers reinforced PP is notable because it sticks to the bed even less than regular PP, so a specific PP-GF adhesive must be used.
+- Hollow Glass Spheres  
 
 </br>
 
@@ -921,8 +912,15 @@ Wet filament causes oozing and stringing while printing, producing also rough su
 
 During the manufacturing process filament is cooled in water baths after being extruded, and never dried again. Even if the spool came in a "sealed" bag with some dessicant it's probably wet.
 Moisture can and does pass through plastic bags, that's why industrial filaments come in bags with a metallic liner.
-A lot of commonly printed filaments are hygroscopic (like PETG, PA, PC) and any fiber fill increases water absorption drastically, so it's highly recommended to dry every spool in a filament dryer / airfryer / convection oven at a temperature slightly below (5-10°) the glass transition temperature (Tg) of the filament for some hours.
+A lot of commonly printed filaments are hygroscopic (like PETG, PA, PC), so it's highly recommended to dry every spool in a filament dryer / airfryer / convection oven at a temperature slightly below (5-10°) the glass transition temperature (Tg) of the filament for some hours.
 Vacuum drying doesn't work without heat, as the water molecules attach themselves to the polymer chains, requiring energy to separate.
+
+Fiber fills are extremely bad in this regard, they make even the least hygroscopic filament very prone to taking moisture. This is because the fibers create channels in the material through which the water can penetrate deeply, so for filled filaments drying is a must.
+
+A cheap solution if you don't have the money for an airfryer or a dedicated oven is to put the spool on the printer bed covered with a cardboard box with some holes on top. Set the bed 5-10° below the Tg of the material and close the chamber if possible. This can help for most materials, but for the more hygroscopic ones proper drying can be still needed.
+
+The worst offenders, like PA, filled PC, and most high temperature polymers, can absorb water so quickly that printing from a dry box (possibly heated) is required, as they can become extremely wet even during a short print.
+
 <!-------------------------------------------------------------------------------------------------->
 </br>
 
