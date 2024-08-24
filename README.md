@@ -302,7 +302,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### • CP
+### • LCP
 >Liquid Crystal Polymers
 
 #### - Characteristics:
@@ -314,7 +314,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### • BC
+### • SBC
 >Styrene Butadiene Copolymer
 
 #### - Characteristics:
@@ -805,7 +805,7 @@ todo printing
 
 ## 3. Variants
 
-Variants here
+Polymeric filaments can be modified, usually with additives, to change their properties with a specific objective in mind. These variants of the traditional raw polymers can be only aesthetic or they can serve useful functions.
 
 </br>
 
@@ -837,7 +837,7 @@ Variants here
 
 ## 4. Fills
 
-Fills here
+Particles can be mixed inside the polymeric matrix to change the feel or the properties of the printed parts. As with variants (discussed above) the effect can be aesthetic or functional.
 
 </br>
 
@@ -869,7 +869,7 @@ Fills here
 
 ## 5. Support Materials and Specialty Filaments
 
-Specialty stuff here
+On printers with multiple toolheads/hotends you can use one (or more) material(s) for your part and a different material just for the supports for it. This can be done to make the removal of the support easier, sometimes by dissolving the support material in water or chemicals. In this list there are also some other specialty filaments engineered by manufacturers for niche uses.
 
 </br>
 
@@ -903,15 +903,20 @@ Specialty stuff here
 
 ## 6. Sintering (ceramics and metals)
 
-Sintering stuff
+FDM printing can be used not only for creating finished parts, but it can be used to deposit materials in the desired shape, to then sinter to achieve bonding and the final characteristics of the piece. Metals or ceramics can be dispersed in powdered form in very large quantities (50%-95%) inside a polymeric filament that is used just to hold the shape of the part before sintering. The rest of the process is done in a furnace, usually with a first step to burn the plastic away and a second hotter step to sinter (cook and bind) the particles togheter. This requires extremely high temps, between 500° and 1500°, depending on the material.
+
 </br>
 
 <!-------------------------------------------->
-### • Silicone carbide
+### • Clay
 
-### • Silicone nitride
+### • Basalt
 
-### • Zirconium 
+### • Silicone Carbide
+
+### • Silicone Nitride
+
+### • Zirconium Silicate
 
 ### • Alumina
 
@@ -919,9 +924,25 @@ Sintering stuff
 
 ### • Borosilicate Glass
 
+### • Aluminium 6061
+
+### • Bronze
+
+### • Copper
+
+### • Iron
+
+### • Tool Steel
+
 ### • Stainless steel 316L
 
-### • Stainless steel 17-4
+### • Stainless steel 17-4 PH
+
+### • Tungsten
+
+### • Titanium 64-5
+
+### • Inconel 718
 
 <!-------------------------------------------------------------------------------------------------->
 </br>
@@ -936,7 +957,7 @@ Wet filament causes oozing and stringing while printing, producing also rough su
 During the manufacturing process filament is cooled in water baths after being extruded, and never dried again. Even if the spool came in a "sealed" bag with some dessicant it's probably wet.
 Moisture can and does pass through plastic bags, that's why industrial filaments come in bags with a metallic liner.
 A lot of commonly printed filaments are hygroscopic (like PETG, PA, PC), so it's highly recommended to dry every spool in a filament dryer / airfryer / convection oven at a temperature slightly below (5-10°) the glass transition temperature (Tg) of the filament for some hours.
-Vacuum drying doesn't work without heat, as the water molecules attach themselves to the polymer chains, requiring energy to separate.
+Vacuum drying doesn't work well without heat, as the water molecules attach themselves to the polymer chains, requiring energy to separate.
 
 Fiber fills are extremely bad in this regard, they make even the least hygroscopic filament very prone to taking moisture. This is because the fibers create channels in the material through which the water can penetrate deeply, so for filled filaments drying is a must.
 
