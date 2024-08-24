@@ -93,7 +93,7 @@ It's one of the easiest material to print. The only thing that can limit you is 
 </br>
 
 <!-------------------------------------------->
-### PETG
+### • PETG
 >Polyethylene Terephthalate - Glycole modified
 
 #### - Characteristics:
@@ -115,7 +115,7 @@ It doesn't flow a lot, so it has to be printed a bit slower than PLA, and requir
 </br>
 
 <!-------------------------------------------->
-### PCTG
+### • PCTG
 >Polycyclohexylenedimethylene Terephthalate
 
 #### - Characteristics:
@@ -132,7 +132,7 @@ It prints a bit hotter than PETG, but it behaves similarly. If achieving maximum
 </br>
 
 <!-------------------------------------------->
-### PET
+### • PET
 >Polyethylene Terephthalate
 
 #### - Characteristics:
@@ -149,7 +149,7 @@ Annealing is required to achieve all the properties of this polymer.
 </br>
 
 <!-------------------------------------------->
-### PETG-PTFE
+### • PETG-PTFE
 >Polyethylene Terephthalate - Glycole modified - Polytetrafluoroethylene 
 
 #### - Characteristics:
@@ -163,7 +163,7 @@ Printing it slower than regular PETG can prevent warping.
 </br>
 
 <!-------------------------------------------->
-### OBC
+### • OBC
 >Olefin block Copolymers
 
 #### - Characteristics:
@@ -175,7 +175,7 @@ Requires much lower temperatures than other polyethylene copolymers. Might not r
 </br>
 
 <!-------------------------------------------->
-### TPE
+### • TPE
 >Thermoplastic Elastomers
 
 #### - Characteristics:
@@ -188,7 +188,7 @@ They are tricky to print as the flexibility can easily cause jams in the extrude
 </br>
 
 <!-------------------------------------------->
-### TPU
+### • TPU
 >Thermoplastic Polyurethane
 
 #### - Characteristics:
@@ -210,7 +210,7 @@ General TPE suggestions still apply.
 </br>
 
 <!-------------------------------------------->
-### TPC
+### • TPC
 >Thermoplastic Copolyester Elastomers 
 
 #### - Characteristics:
@@ -221,7 +221,7 @@ Another TPE, TPC has fairly chemical resistance, being nearly immune to oils and
 </br>
 
 <!-------------------------------------------->
-### PEBA
+### • PEBA
 >Polyether block Amide 
 
 #### - Characteristics:
@@ -234,7 +234,7 @@ It is recommended to use brim around the printed object. The best adhesion is ac
 </br>
 
 <!-------------------------------------------->
-### SEBS
+### • SEBS
 >Styrene - Ethylene - Butylene - Styrene
 
 #### - Characteristics:
@@ -246,7 +246,7 @@ It is recommended to use brim around the printed object. The best adhesion is ac
 </br>
 
 <!-------------------------------------------->
-### EVA
+### • EVA
 >Ethylene - Vinyl Acetate
 
 #### - Characteristics:
@@ -258,7 +258,7 @@ PP-GF adhesive is recommended instead of the typical PVA/PVB glue
 </br>
 
 <!-------------------------------------------->
-### PP
+### • PP
 >Polypropylene
 
 #### - Characteristics:
@@ -278,7 +278,7 @@ It is atypically hard to print for a plastic that doesn't require an heated cham
 </br>
 
 <!-------------------------------------------->
-### PHA
+### • PHA
 >Polyhydroxyalkanoates
 
 #### - Characteristics:
@@ -290,7 +290,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PHB
+### • PHB
 >Polyhydroxybutyrate
 
 #### - Characteristics:
@@ -302,7 +302,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### LCP
+### • CP
 >Liquid Crystal Polymers
 
 #### - Characteristics:
@@ -314,7 +314,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### SBC
+### • BC
 >Styrene Butadiene Copolymer
 
 #### - Characteristics:
@@ -326,7 +326,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### ABS
+### • ABS
 >Acrylonitrile Butadiene Styrene
 
 #### - Characteristics:
@@ -343,7 +343,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### ASA
+### • ASA
 >Acrylonitrile Styrene Acrylate
 
 -cf-gf-kf-lw
@@ -357,7 +357,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### HIPS
+### • HIPS
 >High Impact Polystyrene
 
 #### - Characteristics:
@@ -369,7 +369,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### HDPE
+### • HDPE
 >High-density Polyethylene
 
 #### - Characteristics:
@@ -381,7 +381,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### LDPE
+### • LDPE
 >Low-density Polyethylene
 
 #### - Characteristics:
@@ -393,7 +393,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PMMA
+### • PMMA
 >Poly(Methyl Methacrylate)
 
 #### - Characteristics:
@@ -405,7 +405,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PVA
+### • PVA
 >Polyvinyl Alcohol
 
 #### - Characteristics:
@@ -417,7 +417,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PVB
+### • PVB
 >Polyvinyl Butyral
 
 #### - Characteristics:
@@ -429,7 +429,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PVC
+### • PVC
 >Polyvinyl Chloride
 
 #### - Characteristics:
@@ -441,7 +441,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PVDF
+### • PVDF
 >Polyvinyl Fluoride
 
 #### - Characteristics:
@@ -453,7 +453,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### FEP
+### • FEP
 >Please no
 
 #### - Characteristics:
@@ -465,7 +465,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PPS
+### • PPS
 >Polyphenylene Sulfide
 
 #### - Characteristics:
@@ -482,7 +482,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PA
+### • PA
 >Polyamides
 
 #### - Characteristics:
@@ -499,7 +499,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PPA
+### • PPA
 >Polyphthalamide
 
 #### - Characteristics:
@@ -516,7 +516,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PC-ABS
+### • PC-ABS
 >Polycarbonate - Acrylonitrile Butadiene Styrene
 
 #### - Characteristics:
@@ -528,7 +528,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PC
+### • PC
 >Polycarbonate
 
 #### - Characteristics:
@@ -545,7 +545,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PC-PBT
+### • PC-PBT
 >Polycarbonate - Polybutylene Terephthalate 
 
 #### - Characteristics:
@@ -562,7 +562,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PC-PTFE
+### • PC-PTFE
 >Polycarbonate - Polytetrafluoroethylene
 
 #### - Characteristics:
@@ -574,7 +574,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PBT
+### • PBT
 >Polybutylene Terephthalate
 
 #### - Characteristics:
@@ -586,7 +586,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PPE
+### • PPE
 >Polyphenylene Ether
 
 #### - Characteristics:
@@ -598,7 +598,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PPE-PS
+### • PPE-PS
 >Polyphenylene Ether - Polystyrene
 
 #### - Characteristics:
@@ -610,7 +610,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PPE-PA
+### • PPE-PA
 >Polyphenylene Ether - Polyamide
 
 #### - Characteristics:
@@ -622,7 +622,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PSU
+### • PSU
 >Polysulfones
 
 #### - Characteristics:
@@ -634,7 +634,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PPSU/PPSF
+### • PPSU/PPSF
 >Polyphenylsulfone
 
 #### - Characteristics:
@@ -646,7 +646,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PES/PESU
+### • PES/PESU
 >Polyethersulfone
 
 #### - Characteristics:
@@ -658,7 +658,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### POM
+### • POM
 >Polyoxymethylene
 
 #### - Characteristics:
@@ -670,7 +670,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### FEP
+### • FEP
 >Fluorinated Ethylene Propylene
 
 #### - Characteristics:
@@ -682,7 +682,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PEKK
+### • PEKK
 >Polyetherketoneketone
 
 #### - Characteristics:
@@ -699,7 +699,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PEEK
+### • PEEK
 >Polyetheretherketone
 
 #### - Characteristics:
@@ -716,7 +716,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PEEK-PTFE
+### • PEEK-PTFE
 >Polyetheretherketone - Polytetrafluoroethylene
 
 #### - Characteristics:
@@ -728,7 +728,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### Polyketone
+### • Polyketone
 >Polyeketone
 
 #### - Characteristics:
@@ -740,7 +740,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### Ultem 9085/PEI
+### • Ultem 9085/PEI
 >Polyetherimide
 
 #### - Characteristics:
@@ -757,7 +757,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### Ultem 1010/PEI
+### • Ultem 1010/PEI
 >Polyetherimide
 
 #### - Characteristics:
@@ -774,7 +774,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### TPI
+### • TPI
 >Thermoplastic Polyimide
 
 #### - Characteristics:
@@ -786,19 +786,7 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### PAI
->Polyamide-Imides
-
-#### - Characteristics:
-todo char
-
-#### - Printing: (-° / -° / - )
-todo printing
-
-</br>
-
-<!-------------------------------------------->
-### BVOH
+### • BVOH
 >Butenediol Vinyl Alcohol Copolymer
 
 #### - Characteristics:
@@ -813,99 +801,134 @@ todo printing
 <!-------------------------------------------------------------------------------------------------->
 ---
 
+
+
 ## 3. Variants
-### Silk
 
-### Rainbow
+Variants here
 
-### Dual Extrusion
+</br>
 
-### Architectural Visualization
+<!-------------------------------------------->
+### • Silk
 
-### Glow in the Dark
+### • Rainbow
 
-### Color Changing
+### • Dual Extrusion
 
-### Foaming/Lightweight - LW
+### • Architectural Visualization
 
-### ESD Safe - ESD
+### • Glow in the Dark
 
-### Fire Resistant - FR/V0
+### • Color Changing
+
+### • Foaming/Lightweight - LW
+
+### • ESD Safe - ESD
+
+### • Fire Resistant - FR/V0
 
 <!-------------------------------------------------------------------------------------------------->
 </br>
 
 ---
+
+
 
 ## 4. Fills
-### Wood
 
-### Stone
+Fills here
 
-### Glitter
+</br>
 
-### Metal
+<!-------------------------------------------->
+### • Wood
 
-### Carbon Fibers - CF
+### • Stone
 
-### Glass Fibers - GF
+### • Glitter
 
-### Aramid/Kevlar Fibers
+### • Metal
 
-### Hollow Glass Spheres
+### • Carbon Fibers - CF
 
-### Ceramic
+### • Glass Fibers - GF
+
+### • Aramid/Kevlar Fibers
+
+### • Hollow Glass Spheres
+
+### • Ceramic
 
 <!-------------------------------------------------------------------------------------------------->
 </br>
 
 ---
+
+
 
 ## 5. Support Materials and Specialty Filaments
-### 3DXtech Aquatek X1
 
-### 3DXtech LTS
+Specialty stuff here
 
-### 3DXtech MTS
+</br>
 
-### 3DXtech HTS1
+<!-------------------------------------------->
+### • 3DXtech Aquatek X1
 
-### 3DXtech HTS2
+### • 3DXtech LTS
 
-### IMS Aquasys 120
+### • 3DXtech MTS
 
-### IMS Aquasys 180
+### • 3DXtech HTS1
 
-### PPprint P-support 279
+### • 3DXtech HTS2
 
-### Iglidur stuff
+### • IMS Aquasys 120
 
-### Multi3D Electrifi
+### • IMS Aquasys 180
+
+### • PPprint P-support 279
+
+### • Iglidur stuff
+
+### • Multi3D Electrifi
 
 <!-------------------------------------------------------------------------------------------------->
 </br>
 
 ---
+
+
 
 ## 6. Sintering (ceramics and metals)
-### Silicone carbide
 
-### Silicone nitride
+Sintering stuff
+</br>
 
-### Zirconium 
+<!-------------------------------------------->
+### • Silicone carbide
 
-### Alumina
+### • Silicone nitride
 
-### Boron Carbide
+### • Zirconium 
 
-### Stainless steel 316L
+### • Alumina
 
-### Stainless steel 17-4
+### • Boron Carbide
+
+### • Borosilicate Glass
+
+### • Stainless steel 316L
+
+### • Stainless steel 17-4
 
 <!-------------------------------------------------------------------------------------------------->
 </br>
 
 ---
+
+
 
 ## 7. Drying
 Wet filament causes oozing and stringing while printing, producing also rough surfaces and messing the extrusion multiplier calibration, to combat this it's best to always print dry filament.
