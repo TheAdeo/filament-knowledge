@@ -811,22 +811,51 @@ Polymeric filaments can be modified, usually with additives, to change their pro
 
 <!-------------------------------------------->
 ### • Silk
+Some people like shiny stuff, so to get a shiny look for your printed part some additives are used to give the desired look to the filament.
+An effect on the mechanical properties is that the material loses layer adhesion and absorbs moisture faster. A good tip is to increase the hotend temperature compared to the pure filament.
 
 ### • Rainbow
+Raimbow filaments are just spools where the pigments are dumped one after the other during extrusion, to achieve a gradual transition between a lot of different colors.
 
 ### • Dual Extrusion
+Different colors can be extruded at the same time to achieve a filament that has two, three, or even four sides, makind the printed part look like it's a different color depending from where you look.
 
 ### • Architectural Visualization
+Archiviz filaments are usually made by adding powder and colorants to achieve a stone/sand/plaster/etc. look, perfect for showing off architectural pieces with a more true to life appearance.
+> [!WARNING]  
+> The powders used are abrasive and will wear down brass and copper nozzles. A hardened steel or tungsten carbide nozzle is recommended.
 
 ### • Glow in the Dark
+Glow in the dark pigments can show throug the base polymer, absorbing UV light during the day and releasing it once dark. Usually green/blue, sometimes red can also be found.
+> [!WARNING]
+> The pigments used are abrasive and will wear down brass and copper nozzles. A hardened steel or tungsten carbide nozzle is recommended.
 
 ### • Color Changing
+Pigments that change color when heat is applied are used to give this property to the printed parts.
 
 ### • Foaming/Lightweight - LW
+Lightweight filaments are modified to foam at high temperatures, releasing gases that form microbubbles make the plastic exiting the nozzle expand upwards of 50%. After tuning the temperature to achieve the desired level of expansion, lowering the extrusion multiplier is needed to combat the overextrusion. This results in much lighter parts, with the caveat of extremely reduced rigidity and strenght, these filaments are perfect for RC aircrafts. Foaming TPU also to change its hardness when expanding.
 
 ### • ESD Safe - ESD
+Carbon in various forms (carbon black powder, carbon nanotubes, etc...) can be added to lower significantly the surface resistivity of the printed parts, making them suitable for not accumulating electric charges and preventing electic shocks, perfect for electronic enclosures.
+> [!CAUTION]
+> Carbon Nanotubes (CNT, not to be confused with carbon fibers) are extremely dangerous to the human body, the safe level set by the CDC is only 1µg/m³, 10 times less than arsenic, 50 times less than lead and 10000 times less than hidrogen cyanide.
+>
+> "Occupational exposure to CNTs is associated with biomarkers of early effect for fibrosis, inflammation, oxidative stress, and cardiovascular responses in workers [Beard et al. 2018]."
+>
+> Printing, sanding, cutting, and in generatl working with CNT containing filaments *will* result in some paricles becoming airborne, posing an extreme health risk.
+> It is ***strongly advised*** to ***never*** use CNT containing filaments, and instead use ESD safe filaments that use safer additives.
+> Known CNT containing filaments are the ESD safe products from 3DXTech and Polymaker.
+>
+> https://www.cdc.gov/niosh/docs/2013-145/pdfs/2013-145.pdf
+>
+> https://www.cdc.gov/niosh/docs/2022-153/2022-153.pdf?id=10.26616/NIOSHPUB2022153
+>
+> https://link.springer.com/article/10.1007/s11051-020-4750-8
 
 ### • Fire Resistant - FR/V0
+For some use cases fire resistant materials are needed. These polymers are modified to meet the UL94 V0 specification, or if a standardized test has not been made they are just labeled as "Fire Resistant (FR)".
+This does not mean that the part will not burn and melt in a fire, but it means that a flame will not propagate. More specifically the UL94 V0 spec requires burning to stop within 10 seconds on a vertical specimen, and drips are allowed as long as they are not inflamed.
 
 <!-------------------------------------------------------------------------------------------------->
 </br>
