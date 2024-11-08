@@ -9,14 +9,14 @@ A list and guide for all kinds of 3D printing filaments
 <details open>
 <summary><h4>Quick links to sections</h4></summary>
   
-1. [General Layout](https://github.com/TheAdeo/filament-knowledge/edit/main/README.md#1-general-layout)
+1. [General Layout](https://github.com/TheAdeo/filament-knowledge#1-general-layout)
 2. [Thermoplastic Polymers](https://github.com/TheAdeo/filament-knowledge#2-thermoplastic-polymers)
-3. [Variants](https://github.com/TheAdeo/filament-knowledge/edit/main/README.md#3-variants)
-4. [Fills](https://github.com/TheAdeo/filament-knowledge/edit/main/README.md#4-fills)
-5. [Support Materials and Specialty Filaments](https://github.com/TheAdeo/filament-knowledge/edit/main/README.md#5-support-materials-and-specialty-filaments)
-6. [Sintering Ceramics and Metals](https://github.com/TheAdeo/filament-knowledge/edit/main/README.md#6-sintering-ceramics-and-metals)
-7. [Drying](https://github.com/TheAdeo/filament-knowledge/edit/main/README.md#7-drying)
-8. [Annealing](https://github.com/TheAdeo/filament-knowledge/edit/main/README.md#8-annealing)
+3. [Variants](https://github.com/TheAdeo/filament-knowledge#3-variants)
+4. [Fills](https://github.com/TheAdeo/filament-knowledge#4-fills)
+5. [Support Materials and Specialty Filaments](https://github.com/TheAdeo/filament-knowledge#5-support-materials-and-specialty-filaments)
+6. [Sintering Ceramics and Metals](https://github.com/TheAdeo/filament-knowledge#6-sintering-ceramics-and-metals)
+7. [Drying](https://github.com/TheAdeo/filament-knowledge#7-drying)
+8. [Annealing](https://github.com/TheAdeo/filament-knowledge#8-annealing)
 
 </details>
 
