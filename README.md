@@ -494,7 +494,7 @@ todo printing
 #### - Variants:
 - todo vars  
   &nbsp;&nbsp;&nbsp;todo vars
--6-66-11-12-cf-gf
+-6-66-11-12-cf-gf-hgs
 
 </br>
 
@@ -867,27 +867,115 @@ This does not mean that the part will not burn and melt in a fire, but it means 
 ## 4. Fills
 
 Particles can be mixed inside the polymeric matrix to change the feel or the properties of the printed parts. As with variants (discussed above) the effect can be aesthetic or functional.
+Fills will significantly increase the moisture absorption of the filament as they provide a path for water to the core of the filament, so careful drying is mandatory.
+> [!WARNING]  
+> Nearly all fills are abrasive and will ruin copper and brass nozzles, hardened steel or tungsten carbide nozzles are recommended.
+> CHT or other flow enhancing geometries are also more prone to clogs so they should be avoided.
+> Long fiber fills are especially prone to clogs, so a 0.5mm or bigger nozzles are recommended.
 
 </br>
 
 <!-------------------------------------------->
 ### • Wood
+Wood fibers are a decorative fill used to mimic the effect of wooden parts, it can be enhanced by painting the final parts with wood stains to bring out the fake wood grain.
+It creates various printing artifacts that can actually improve the "wooden" look.
+
+#### - Physical effects:
+- Lower flow rate
+- Lower layer adhesion and part strenght
+
 
 ### • Stone
+Powdered stone usually used to mimic real stones in archviz, available in almost all kinds of finishes.
+
+#### - Physical effects:
+- Lower layer adhesion and part strenght
+
 
 ### • Glitter
+Very fine glitter is mixed in the filament to give a "sparkly" look. It can help reduce the visibility of printing artifacts.
+
+#### - Physical effects:
+- None.
+> [!NOTE]  
+> Glitter is one of the lower abrasion fills, so it can usually be printed with any nozzle, but faster wear is still expected.
+
 
 ### • Metal
+High concentrations by weight (60%+) of metal powder are used to give a metal look to the parts and increase the weight. Side effects are increased electrical conductivity and the ability to oxidize the parts for a rusted and worn look, perfect for cosplay items, replicas, and to hide the 3D printed look.
+
+#### - Physical effects:
+- Significantly higher weight
+- Rusting
+- Electrical conductivity
+- Lower layer adhesion and part strenght
+- In some cases radiation shielding
+
 
 ### • Carbon Fibers - CF
+Short milled/powdered carbon fibers can improve the look of the printed parts with a premium fuzzy external look, while long chopped carbon fibers can also dramatically change the physical properties of the printed parts.
+
+#### - Physical effects:
+- Higher crystallization rates for semycrystalline polymers
+- Higher thermal resistance (elastic and flextural modulus loss are compensated by the stiff fibers, bringing the failure temps higher)
+- Increased stiffness
+- Significantly lower layer adhesion
+- Increased brittleness
+- Significantly reduced warping during printing
+- Higher dimensional accuracy
+> [!TIP]  
+> The longer the fibers are the more the effects will be felt. Cheap CF filled filaments will have fibers so short that they will not give any physical benefit, but just the fuzzy look.
+
 
 ### • Glass Fibers - GF
+Glass fibers are very similar to carbon fibers, just with a higher density that usually results in a higher total density of the filament. Compared to CF manufacurers use fibers long enough to give physical benefits.
+
+#### - Physical effects:
+- Higher crystallization rates for semycrystalline polymers
+- Higher thermal resistance (elastic and flextural modulus loss are compensated by the stiff fibers, bringing the failure temps higher)
+- Increased stiffness, but less than CF
+- Significantly lower layer adhesion
+- Increased brittleness, but tougher than CF, so they are an alternative to consider for parts subject to impacts
+- Significantly reduced warping during printing
+- Higher dimensional accuracy
+
 
 ### • Aramid/Kevlar Fibers
+Aramid fibers have a low friction coefficient and high wear resistance, so they can ba used for parts that will be subject to sliding action like gears.
+
+#### - Physical effects:
+- Low friction coefficient
+- Reduced wear
+- Lower layer adhesion
+- Reduced warping during printing
+- Higher dimensional accuracy
+
 
 ### • Hollow Glass Spheres
+Hollow glass micro-spheres are used to decrease the density of the filament, for a light and stiff alternative to the base polymer.
+
+#### - Physical effects:
+- Lower density
+- Reduced wear
+- Increased stiffness
+- Lower layer adhesion
+- Reduced warping during printing
+- Higher dimensional accuracy
+
 
 ### • Ceramic
+Ceramic filled filament must not be confused with ceramic filament for sintering, that is explored in a [following section](https://github.com/TheAdeo/filament-knowledge#6-sintering-ceramics-and-metals).
+Ceramic powder is used to increase the surface hardness and increase the machinability of the parts as a post processing step. Usually used in electronics assembly and fabrication facilities.
+
+#### - Physical effects:
+- Increased surface hardness
+- Reduced thermal expansion
+- Increased stiffness
+- Increased thermal resistance
+- Lower layer adhesion
+- Reduced warping during printing
+- Higher dimensional accuracy
+
 
 <!-------------------------------------------------------------------------------------------------->
 </br>
@@ -898,30 +986,27 @@ Particles can be mixed inside the polymeric matrix to change the feel or the pro
 
 ## 5. Support Materials and Specialty Filaments
 
-On printers with multiple toolheads/hotends you can use one (or more) material(s) for your part and a different material just for the supports for it. This can be done to make the removal of the support easier, sometimes by dissolving the support material in water or chemicals. In this list there are also some other specialty filaments engineered by manufacturers for niche uses.
+Specialty filaments formulated by manufacturerts to cater to be used as a support for other filaments, or other niche uses.
 
 </br>
 
 <!-------------------------------------------->
-### • 3DXtech Aquatek X1
+### • Dissolvable Supports
+Filaments that after printing can be dissolved in water or a solvent (usually limonene), really useful to achieve complex geometries that would require supports normally impossible to remove.
+> [!IMPORTANT]  
+> A printer with multiple hotends is mandatory (toolchanger/idex/dual hotend...) to avoid contamination of the part that would result in a catastophical failure when dissolving the supports.
 
-### • 3DXtech LTS
+### • High Temp Supports
+Support filaments compatible with the extremely high chamber and nozzle temperatures required for HT polymers. Useful to avoid the fusing issues of same material supports.
 
-### • 3DXtech MTS
+### • Polypropylene Supports
+Support materials specifically formulated to bond enough with Polypropylene, as it is a very inert material that usually doesn't like sticking to other materials.
 
-### • 3DXtech HTS1
+### • Iglidur Low Friction Polymers
+Special class of polymers developed by German manufacturer Igus to have an especially low coefficient of friction, available in different temperature ranges. 
 
-### • 3DXtech HTS2
-
-### • IMS Aquasys 120
-
-### • IMS Aquasys 180
-
-### • PPprint P-support 279
-
-### • Iglidur stuff
-
-### • Multi3D Electrifi
+### • Conductive Filaments
+Filaments with enough filler (usually carbon based) to let the final printed parts to conduct electricity. Conductive enough to trigger circuits, but too resistive to carry a significant amount of current.
 
 <!-------------------------------------------------------------------------------------------------->
 </br>
@@ -1000,4 +1085,4 @@ The worst offenders, like PA, filled PC, and most high temperature polymers, can
 ---
 
 ## 8. Annealing
-Description
+Description TODO
