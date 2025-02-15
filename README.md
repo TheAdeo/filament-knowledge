@@ -4,7 +4,7 @@
 ---
 
 # Filament knowledge
-A list and guide for all kinds of 3D printing filaments
+A list and guide for all kinds of filaments usable with a FFF/FDM (Fused Filament Fabrication / Fused Deposition Modeling) 3D printer
 
 <details open>
 <summary><h4>Quick links to sections</h4></summary>
@@ -47,7 +47,7 @@ Plastic filaments can be commonly found with a lot of different options, them be
 >Polycaprolactone
 
 #### - Characteristics:
-It's a biodegradable semy-crystalline polymer that has a very low glass transition temperature and melting point (60°), meaning you can shape it and model it in hot water.  
+It's a biodegradable semi-crystalline polymer that has a very low glass transition temperature and melting point (60°), meaning you can shape it and model it in hot water.  
 It is commonly used on 3D pens, but it's also used in the research world as it is biocompatile. It also is semi flexible.
 > [!CAUTION]  
 > Even though PCL is biocompatible, your printer isn't, so the parts you will print won't be biocompatible, because of the contaminants absorbed during the printing process due to the non sterilized printer.
@@ -278,38 +278,15 @@ It is atypically hard to print for a plastic that doesn't require an heated cham
 </br>
 
 <!-------------------------------------------->
-### • PHA
->Polyhydroxyalkanoates
+### • PHA / PHB
+>Polyhydroxyalkanoates / Polyhydroxybutyrate
 
 #### - Characteristics:
-todo char
+PHA are a big family of semi-crystalline polymers that are biologically syntetized from bacteria, and are 100% biodegradable, so they are one of the most "green" filaments available. They are easy to print and can be considered a PLA replacement with generally better properties. The biggest drawbacks is the slightly higher cost that's caused by the limited availability on the market, due to low customer knowledge about them. PHA can also be found blended with PLA. PHB is one member of the PHA family.
+PHA usually have a higher thermal resistance than PLA, while being slightly less stiff but less brittle.
 
-#### - Printing: (-° / -° / - )
-todo printing
-
-</br>
-
-<!-------------------------------------------->
-### • PHB
->Polyhydroxybutyrate
-
-#### - Characteristics:
-todo char
-
-#### - Printing: (-° / -° / - )
-todo printing
-
-</br>
-
-<!-------------------------------------------->
-### • LCP
->Liquid Crystal Polymers
-
-#### - Characteristics:
-todo char
-
-#### - Printing: (-° / -° / - )
-todo printing
+#### - Printing: (210° / 60° / - )
+Just as printable as PLA, so really easy materials to work with.
 
 </br>
 
@@ -359,6 +336,18 @@ todo printing
 <!-------------------------------------------->
 ### • HIPS
 >High Impact Polystyrene
+
+#### - Characteristics:
+todo char
+
+#### - Printing: (-° / -° / - )
+todo printing
+
+</br>
+
+<!-------------------------------------------->
+### • BVOH
+>Butenediol Vinyl Alcohol Copolymer
 
 #### - Characteristics:
 todo char
@@ -786,8 +775,8 @@ todo printing
 </br>
 
 <!-------------------------------------------->
-### • BVOH
->Butenediol Vinyl Alcohol Copolymer
+### • LCP
+>Liquid Crystal Polymers
 
 #### - Characteristics:
 todo char
@@ -916,7 +905,7 @@ High concentrations by weight (60%+) of metal powder are used to give a metal lo
 Short milled/powdered carbon fibers can improve the look of the printed parts with a premium fuzzy external look, while long chopped carbon fibers can also dramatically change the physical properties of the printed parts.
 
 #### - Physical effects:
-- Higher crystallization rates for semycrystalline polymers
+- Higher crystallization rates for semi-crystalline polymers
 - Higher thermal resistance (elastic and flextural modulus loss are compensated by the stiff fibers, bringing the failure temps higher)
 - Increased stiffness
 - Significantly lower layer adhesion
@@ -931,7 +920,7 @@ Short milled/powdered carbon fibers can improve the look of the printed parts wi
 Glass fibers are very similar to carbon fibers, just with a higher density that usually results in a higher total density of the filament. Compared to CF manufacurers use fibers long enough to give physical benefits.
 
 #### - Physical effects:
-- Higher crystallization rates for semycrystalline polymers
+- Higher crystallization rates for semi-crystalline polymers
 - Higher thermal resistance (elastic and flextural modulus loss are compensated by the stiff fibers, bringing the failure temps higher)
 - Increased stiffness, but less than CF
 - Significantly lower layer adhesion
