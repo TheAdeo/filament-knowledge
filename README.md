@@ -295,10 +295,11 @@ Just as printable as PLA, so really easy materials to work with.
 >Styrene Butadiene Copolymer
 
 #### - Characteristics:
-todo char
+SBC is a family of elastomers that offers high clarity and transparency with high toughness. It is flexible, but with a high shore D hardness.
 
-#### - Printing: (-° / -° / - )
-todo printing
+#### - Printing: (260° / 100° / 60°)
+The usual flexible caveats apply, but less than usual due to the higher shore hardness.
+Being similar to ABS makes it also easier to print with an heated chamber.
 
 </br>
 
@@ -307,15 +308,25 @@ todo printing
 >Acrylonitrile Butadiene Styrene
 
 #### - Characteristics:
-todo char
+One of the oldest 3D printing filaments, ABS is an amorphous polymer with a high thermal resistance and toughness, but not great stiffness. It is very easy to sand, cut, and post process in general, and can be smoothed with acetone, so it's perfect for prototypes and cosplay items. A lot of ABS are blended for easier printability, so to determine the real properties of the filament one has to first find out if the filament they're considering is similar to injection molding abs ("""pure""") or if it's reformulated with additives to make it more printable (PETG can be used for that).
+Injection molding ABS has been available for the longest as it's just IM pellets extruded into filement. It has a nasty small during printing due to the styrene fumes, is very needy of high temperatures, and has the best thermal properties (around 90°).
+Blended ABS is much easier to print but loses in thermal resistance (as low as 60°), acting like just a more flowable PETG.
 
-#### - Printing: (-° / -° / - )
-todo printing
+#### - Printing: (280° / 100° / 80°)
+ABS has a bad reputation of being very hard to print due to the requirement of a heated chamber, ideally around 80°. Considering that no common consumer 3D printer can reach that temperature, everyone prints it in suboptimal conditions and suffers from high warping.
+In general the hotter the chamber is the better ABS will print, requiring more and more cooling and warping less and less the higher you go. Some very blended ABS can be barely printable with just a cardboard box over the printer, reaching around 40°, while at temperatures reached by insulated Vorons (around 60°) "pure" abs starts to be tamable, but only at lower speeds, really low fan, and high bed temperatures (110°+) to compensate.
+The same applies to hotend temperature: blended abs can be printed even at 240°, while "pure" ABS is barely able to extrude that cold, reaching ideal layer adhesion at 270°-280° (under the hypotesis of good chamber temperature).
 
 #### - Variants:
-- todo vars  
-  &nbsp;&nbsp;&nbsp;todo vars
--cf-gf-kf-blend-glow
+- Blends  
+  &nbsp;&nbsp;&nbsp;The names "pro" or "plus" are indicative of blends, but unfortunately a lot of manufacturers blend their ABS a lot without saying it explicitly. Some ways to be sure that a generic ABS is blended is to look at the marketing material and see if "low smell", "low warp", "easier to print" are mentioned.
+- Architectural Visualization
+- Glow in the Dark
+- Stone
+- Glitter
+- Carbon Fibers - CF
+- Glass Fibers - GF
+- Aramid/Kevlar Fibers
 
 </br>
 
@@ -323,13 +334,17 @@ todo printing
 ### • ASA
 >Acrylonitrile Styrene Acrylate
 
--cf-gf-kf-lw
-
 #### - Characteristics:
-todo char
+ASA is an amorphous polymer that is one monomer away from ABS, so it shares most of its characteristics with it. One notable difference is that ASA offers UV resistance, so it's more suitable for outdoor environments and parts that will be exposed to the sun.
 
-#### - Printing: (-° / -° / - )
-todo printing
+#### - Printing: (280° / 100° / 80°)
+Same printing characteristics as ABS. One notable thing is that ASA is one of the polymers with the highest melt flow rate, making it especially suitable for achieving max volumetric flow rate and fast printing.
+
+#### - Variants:
+- Lightweight - LW
+- Carbon Fibers - CF
+- Glass Fibers - GF
+- Aramid/Kevlar Fibers
 
 </br>
 
