@@ -875,7 +875,7 @@ Fills will significantly increase the moisture absorption of the filament as the
 > [!WARNING]  
 > Nearly all fills are abrasive and will ruin copper and brass nozzles, hardened steel or tungsten carbide nozzles are recommended.
 > CHT or other flow enhancing geometries are also more prone to clogs so they should be avoided.
-> Long fiber fills are especially prone to clogs, so a 0.5mm or bigger nozzles are recommended.
+> Long fiber fills are especially prone to clogs, so 0.5mm or bigger nozzles are recommended.
 
 </br>
 
@@ -902,7 +902,7 @@ Very fine glitter is mixed in the filament to give a "sparkly" look. It can help
 #### - Physical effects:
 - None.
 > [!NOTE]  
-> Glitter is one of the lower abrasion fills, so it can usually be printed with any nozzle, but faster wear is still expected.
+> Glitter is one of the least abrasive fills, so it can usually be printed with any nozzle, but faster wear is still expected.
 
 
 ### • Metal
