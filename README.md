@@ -262,7 +262,7 @@ PP-GF adhesive is recommended instead of the typical PVA/PVB glue
 >Polypropylene
 
 #### - Characteristics:
-Polypropylene is an amorphous thermoplastic that excels in toughness and chemical resistance, its high temperature resistance makes it sterilisable in an autoclave. It's the perfect material for mechanically demanding applications, its lower than average rigidity can be easily improved by fiber fills.
+Polypropylene is a semi-crystalline thermoplastic that excels in toughness and chemical resistance, its high temperature resistance makes it sterilisable in an autoclave. It's the perfect material for mechanically demanding applications, its lower than average rigidity can be easily improved by fiber fills. It's slightly flexibility combined with its toughness makes it perfect for durable living hinges.
 It has a very low density, meaning that a 1 kg spool will contain more material than a similar PLA spool.
 A very good choice for everyday household objects, its only downsides are price and printability.
 
@@ -353,10 +353,10 @@ Same printing characteristics as ABS. One notable thing is that ASA is one of th
 >High Impact Polystyrene
 
 #### - Characteristics:
-todo char
+HIPS is another member of the styrenes family, and it's characterized by softness, high toughness and the ability to dissolve with limonene and acetone. It is commonly used as a soluble support material for ABS/ASA, but it's properties make it also suitable for printing objects with it, as long as they won't be near a solvent.
 
-#### - Printing: (-° / -° / - )
-todo printing
+#### - Printing: (280° / 100° / 80°)
+Similar recommendation as with ABS ans ASA apply here.
 
 </br>
 
@@ -365,10 +365,10 @@ todo printing
 >Butenediol Vinyl Alcohol Copolymer
 
 #### - Characteristics:
-todo char
+BVOH is a semi-crystalline copolymer that's water soluble, more than the common PVA. It is mostly used as a soluble support material, and it's compatible with nearly all the common 3D printable polymers.
 
-#### - Printing: (-° / -° / - )
-todo printing
+#### - Printing: (220° / 60°-100° / - )
+It is very important to always keep it in a dry ambient, and dry it before printing as water significantly degrades it.
 
 </br>
 
@@ -927,6 +927,8 @@ Short milled/powdered carbon fibers can improve the look of the printed parts wi
 - Increased brittleness
 - Significantly reduced warping during printing
 - Higher dimensional accuracy
+- Decreased electrical resistance
+- Increased thermal conductivity
 > [!TIP]  
 > The longer the fibers are the more the effects will be felt. Cheap CF filled filaments will have fibers so short that they will not give any physical benefit, but just the fuzzy look.
 
