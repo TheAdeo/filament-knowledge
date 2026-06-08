@@ -446,7 +446,7 @@ todo printing
 
 <!-------------------------------------------->
 ### • PVDF
->Polyvinyl Fluoride
+>Polyvinylidene Fluoride 
 
 #### - Characteristics:
 todo char
@@ -458,7 +458,7 @@ todo printing
 
 <!-------------------------------------------->
 ### • FEP
->Please no
+>Fluorinated Ethylene Propylene 
 
 #### - Characteristics:
 todo char
